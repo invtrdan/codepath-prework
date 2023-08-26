@@ -17,14 +17,11 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/gallery/wic9uv7)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+[imgur]([https://getkap.co/](https://imgur.com/)) 
 
 ## App Brainstorming (Step 4)
 
@@ -49,7 +46,7 @@ My song request app will allow DJs to start a private/public party where persons
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- Encountered difficulties creating the V Stack.
 
 ## License
 
