@@ -28,6 +28,25 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
+### App: DoorDash
+- Groups Restaurants into categories
+- Simple User Interface
+- Each store has a unique banner, images showing the different menu items
+
+### App: X (Twitter)
+- Shows tweets based on my location, interests
+- Explore page allows users to find more tweets on 
+- Dark Mode
+
+### App: TikTok
+- Shows content based on my interests
+- Allows you to skip to the video you just watched on a creator's profile
+- Allows users to stitch/duet content
+
+### App Idea: Song Request App
+My song request app will allow DJs to start a private/public party where persons can submit song requests. The DJ can share the party session by sharing a link/code/QR code/
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
