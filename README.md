@@ -17,11 +17,11 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/gallery/wic9uv7)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Video Walkthrough](https://imgur.com/gallery/wic9uv7)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-[imgur]([https://getkap.co/](https://imgur.com/)) 
+[imgur](https://imgur.com/)
 
 ## App Brainstorming (Step 4)
 
